@@ -22,3 +22,5 @@ We would expect the challenge to be completed within 48 hours.
 Once you have completed the challenge, zip up the website and send it to [marketing@connexus.co.uk](mailto:marketing@connexus.co.uk) with your full name and contact details.
 
 Additionally, if you have any concerns or questions regarding the task, please drop us an email.
+
+![](https://github.com/ConnexusGroup/Front-end-challenge/blob/master/Front-page.jpg?raw=true)
