@@ -1,3 +1,5 @@
+![](http://www.theconnexusgroup.co.uk/images/logo_connexus_large.png)
+
 # Brief
 
 Code the included design into a responsive 2 page website by using the tools below. The design for the home page is included and the second page should follow a similar design in terms of colours, buttons and fonts but the layout is up to you - express your creativity!
