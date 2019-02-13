@@ -1,4 +1,6 @@
-![](http://www.theconnexusgroup.co.uk/images/logo_connexus_large.png)
+<p align="center">
+  <img width="250" src="http://www.theconnexusgroup.co.uk/images/logo_connexus_large.png">
+</p>
 
 # Brief
 
