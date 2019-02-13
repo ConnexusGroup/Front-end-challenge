@@ -2,9 +2,13 @@
   <img width="250" src="http://www.theconnexusgroup.co.uk/images/logo_connexus_large.png">
 </p>
 
+# Overview
+
+This is a 2 page website which offers products such as home, motor, travel, courier and landlord insurance.
+
 # Brief
 
-Code the included design into a responsive 2 page website by using the tools below. The design for the home page is included and the second page should follow a similar design in terms of colours, buttons and fonts but the layout is up to you - express your creativity!
+Code the included design into a responsive website by using the tools below. The design for the home page is included and the second page should follow a similar design in terms of colours, buttons and fonts but the layout is up to you - express your creativity!
 
 We would expect the challenge to be completed within 48 hours.
 
