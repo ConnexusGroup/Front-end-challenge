@@ -1,0 +1,1 @@
+### In order to keep the challenge fair for everyone, we do not accept pull requests. Please send your completed challenge to [marketing@connexus.co.uk](mailto:marketing@connexus.co.uk) before the deadline specified in the readme.
