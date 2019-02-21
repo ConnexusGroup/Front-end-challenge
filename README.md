@@ -10,7 +10,7 @@ This is a 2 page website which offers products such as home, motor, travel, cour
 
 Code the included design into a responsive website by using the tools below. The design for the home page is included and the second page should follow a similar design in terms of colours, buttons and fonts but the layout is up to you - express your creativity!
 
-The closing date for this task is **Monday 18/02/2019 12:00pm**
+We would expect this challenge to take **no longer than 2 days to complete**
 
 # Requirements
 
